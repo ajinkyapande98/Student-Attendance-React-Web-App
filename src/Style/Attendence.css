@@ -1,0 +1,56 @@
+.Attendence-form {
+  margin: 20px;
+}
+
+h1 {
+  position: relative;
+  left: 52px;
+}
+.StudentName {
+  font-size: 15px;
+  width: 200px;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 20px;
+  position: relative;
+  left: 50px;
+}
+.rollNo {
+  font-size: 15px;
+  width: 200px;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 20px;
+  position: relative;
+  left: 50px;
+}
+
+.check-in-time {
+  font-size: 15px;
+  width: 200px;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 20px;
+  position: relative;
+  left: 50px;
+}
+
+.check-out-time {
+  font-size: 15px;
+  width: 200px;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 20px;
+  position: relative;
+  left: 50px;
+}
+
+.Submit {
+  height: 30px;
+  width: 80px;
+  position: relative;
+  bottom: -60px;
+  left: -100px;
+  background-color: antiquewhite;
+  border-radius: 8px;
+}
